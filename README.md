@@ -32,4 +32,4 @@ Related to the learning objectives and duration of this project, the programming
 
 This project is estimated to be up and running before the end of Spring 2013. The software development methodology adopted for the development of HITS is the Waterfall Model.
 
-# NOT ALL FILES IN THIS PROJECT ARE PERMITTED IN GITHUB AND IDEA OF THE OTHER FILES CAN BE GOT FROM THE IMPORTED FILES WHICH WERE ALL CODED FROM SCRATCH.
+# NOT ALL FILES IN THIS PROJECT ARE PERMITTED IN GITHUB AN IDEA OF THE OTHER FILES CAN BE GOT FROM THE IMPORTED MODULES, WHICH WERE ALL CODED FROM SCRATCH.
